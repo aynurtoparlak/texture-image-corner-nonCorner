@@ -1,6 +1,6 @@
 # texture-image-corner-nonCorner
 
-get some texture images and upload they to the google colab( basically you can upload your google drive and get all images from your drive I kept images name as string list)
+get some texture images from web and upload they to them google colab(basically you can upload your google drive then get all images from your drive and I kept images as string list with names)
 
 feature vector "HOG descriptor" "image" "image + sobel filter"
 
